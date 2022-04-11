@@ -1,0 +1,3 @@
+[submodule "newts"]
+	path = newts
+	url = https://github.com/TermMC/fresh-newt-bath.git
